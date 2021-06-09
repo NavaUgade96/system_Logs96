@@ -1,0 +1,64 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Working Station 405  lighting not working properly",
+      "attention": false,
+      "tech": "Abhi  Pawar",
+      "date": "2021-06-09T09:53:44.457Z"
+    },
+    {
+      "message": "station no machine845 needs to be checked",
+      "attention": true,
+      "tech": "Abhi  Pawar",
+      "date": "2021-06-09T09:53:35.668Z",
+      "id": 2
+    },
+    {
+      "message": "Section 14 Machines oil needs to be checked ",
+      "attention": true,
+      "tech": "Pratik  shinde",
+      "date": "2021-06-09T09:55:10.138Z",
+      "id": 3
+    },
+    {
+      "message": "On Plant No 2 Lights Not Working Properly",
+      "attention": false,
+      "tech": "kiran  shedge",
+      "date": "2021-06-09T09:55:52.101Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Pratik ",
+      "lastName": "shinde",
+      "id": 1
+    },
+    {
+      "firstName": "Abhi ",
+      "lastName": "Pawar",
+      "id": 2
+    },
+    {
+      "firstName": "kiran",
+      "lastName": " shedge",
+      "id": 3
+    },
+    {
+      "firstName": "Navnath",
+      "lastName": "Ugade",
+      "id": 4
+    },
+    {
+      "firstName": "rohit",
+      "lastName": "nale",
+      "id": 5
+    },
+    {
+      "firstName": "Rushi",
+      "lastName": "Dope",
+      "id": 6
+    }
+  ]
+}
